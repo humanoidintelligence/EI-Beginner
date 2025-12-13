@@ -31,7 +31,7 @@ Notes:
 
 Notes:
 - Reference Textbooks
-  - Relevant chapters of "Neural Networks and Deep Learning"
+  - Relevant chapters of "Neural Networks and Deep Learning", Xipeng Qiu
   - Introduction to Reinforcement Learning, 2nd Edition & David Silver's UCL Course
   - UCB 285 Deep Reinforcement Learning
 - OpenAI Gym Link: https://gymnasium.farama.org/index.html
@@ -49,11 +49,12 @@ Notes:
 <img src="./assets/task4.png" width="50%" alt="Description">
 
 
-Learn and utilize existing VLA (Vision-Language-Action) large models such as OpenVLA/GR00T N1, etc., to explore training specialized VLA robotic arm models using existing robotic arm datasets like Open-X Embodiment.
+Learn and utilize existing VLA (Vision-Language-Action) large models such as OpenVLA/Pi/GR00T N1, etc., to explore training specialized VLA robotic arm models using existing robotic arm datasets like Open-X Embodiment.
 
 Notes:
 - OpenVLA: https://github.com/openvla/openvla
-- Gr00t N1: https://github.com/NVIDIA/Isaac-GR00T
+- Pi: https://github.com/Physical-Intelligence/openpi
+- Gr00t: https://github.com/NVIDIA/Isaac-GR00T
 - Open-X Embodiment: https://robotics-transformer-x.github.io/
 - Large Models: https://stanford-cs336.github.io/spring2025/
 

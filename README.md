@@ -50,11 +50,12 @@
 <img src="./assets/task4.png" width="50%" alt="描述">
 
 
-学习并利用现有的VLA大模型如OpenVLA/GR00t N1等, 探索利用现有的机械臂数据集如Open-X Embodiment训练专门的VLA机械臂模型
+学习并利用现有的VLA大模型如OpenVLA/Pi/GR00t等, 探索利用现有的机械臂数据集如Open-X Embodiment训练专门的VLA机械臂模型
 
 备注:
 - OpenVLA: https://github.com/openvla/openvla
-- Gr00t N1: https://github.com/NVIDIA/Isaac-GR00T
+- Pi: https://github.com/Physical-Intelligence/openpi
+- Gr00t: https://github.com/NVIDIA/Isaac-GR00T
 - Open-X Embodiment：https://robotics-transformer-x.github.io/
 - Large Models: https://stanford-cs336.github.io/spring2025/
 
