@@ -2,7 +2,7 @@
 
 [中文版本](./README.md) | [English Version](./README_EN.md)
 
-有意报考/参与[OpenMOSS实验室](https://openmoss.github.io/)具身智能/人形机器人智能团队的同学，均需先完成下列入门练习。
+有意报考/参与[OpenMOSS实验室](https://openmoss.github.io/)具身智能/人形机器人智能团队的同学，均需先完成下列入门练习（任务一至三必做，任务四至六选做）。
 我们共享出来这个入门练习供广大具身智能/人形机器人智能爱好者作入门参考。
 
 
