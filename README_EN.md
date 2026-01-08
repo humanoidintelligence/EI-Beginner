@@ -2,7 +2,7 @@
 
 [中文版本](./README.md) | [English Version](./README_EN.md)
 
-Students interested in applying to or joining the Embodied Intelligence/Humanoid Robot Intelligence team of the [OpenMOSS Lab](https://openmoss.github.io/) are required to first complete the following introductory practice. We share this introductory practice as a reference for all embodied intelligence/humanoid robot intelligence enthusiasts.
+Students interested in applying to or joining the Embodied Intelligence/Humanoid Robot Intelligence team of the [OpenMOSS Lab](https://openmoss.github.io/) are required to first complete the following introductory practice (tasks 1-3 are mandatory, tasks 4-6 are optional). We share this introductory practice as a reference for all embodied intelligence/humanoid robot intelligence enthusiasts.
 
 > Authors: [Peng Li](https://artpli.github.io) and [Siyin Wang](https://sinwang20.github.io)     
 > Advised by [Prof. Xipeng Qiu](https://xpqiu.github.io)    
