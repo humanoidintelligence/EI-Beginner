@@ -100,6 +100,7 @@ References:
 
 ## Frontier Research
 - How to Conduct Research
+  - [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html), [John Schulman](http://joschu.net/index.html)
   - [GAMES003: Basic Literacy in Graphics and Vision Research](https://pengsida.net/games003/)
 - Conferences & Journals
   - Robotics: Science Robotics, RSS, CoRL, ICRA, IROS, RLC
