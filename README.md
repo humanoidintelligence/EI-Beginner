@@ -103,6 +103,7 @@
 
 ## 前沿研究
 - 如何做研究
+  - [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html), [John Schulman](http://joschu.net/index.html)
   - [GAMES003-图形视觉科研基本素养](https://pengsida.net/games003/)
 - 会议期刊
   - 机器人：Science Robotics, RSS, CoRL, ICRA, IROS, RLC
