@@ -9,7 +9,7 @@ Students interested in applying to or joining the Embodied Intelligence/Humanoid
 > Reproduction is permitted only with proper attribution.    
 
 ## Prerequisites
-- Know how to use ChatGPT/DeepSeek and Google
+- Know how to use Google, ChatGPT/DeepSeek and Claude Code/Cursor
 - Know how to use Linux
 - Know how to use Git and GitHub
   - https://learngitbranching.js.org/
