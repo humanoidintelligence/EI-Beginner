@@ -12,7 +12,7 @@
 
 
 ## 入门基础
-- 会用ChatGPT/DeepSeek和Google
+- 会用Google, ChatGPT/DeepSeek和Claude Code/Cursor
 - 会用Linux
 - 会用Git和GitHub
   - https://learngitbranching.js.org/
